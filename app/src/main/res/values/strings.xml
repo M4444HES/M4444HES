@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Catering</string>
+    <string name="riwayat_pesanan">Riwayat Pesanan</string>
+    <string name="oops_kamu_belum_order_apapun">Oops, kamu belum order apapun!</string>
+    <string name="welcome">Welcome!</string>
+    <string name="login_to_your_account">Login to your account.</string>
+    <string name="masukan_password">Masukan Password</string>
+    <string name="masukan_username">Masukan Username</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="hungry_let_s_continue_with_these">hungry? let\'s continue with these</string>
+    <string name="order_history">Order History</string>
+    <string name="new_amp_trending"><![CDATA[New & Trending]]></string>
+    <string name="categories">Categories</string>
+    <string name="margonda_jawa_barat">Margonda, Jawa Barat</string>
+    <string name="search_food_package_etc">Search food, package etc.</string>
+    <string name="good_morning_azhar">Good Morning, Azhar</string>
+    <string name="good_morning_m4444hes">good morning M4444HES</string>
+    <string name="smkn_2_surakarta">SMKN 2 Surakarta</string>
+</resources>
